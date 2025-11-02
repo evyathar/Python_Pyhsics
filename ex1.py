@@ -13,9 +13,12 @@ max_no = 5
 
 #x = np.linspace(0, 10, 10056.4)
 #y = np.sin(x + 2) * np.cos(2*x - 3)
-
+#check
 #plt.plot(x, y)
 #plt.show()
+
+
+
 
 ##########
 #output
