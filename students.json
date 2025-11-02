@@ -1,0 +1,16 @@
+[
+  {
+    "first_name": "Evyatar",
+    "last_name": "Salomon",
+    "email": "evyatar@braude.ac.il",
+    "courses": ["Cloud Computing", "Databases", "Software Engineering"],
+    "link": "https://braude.ac.il"
+  },
+  {
+    "first_name": "Dana",
+    "last_name": "Levi",
+    "email": "dana.levi@braude.ac.il",
+    "courses": ["AI", "Python Programming"],
+    "link": "https://realpython.com"
+  }
+]
